@@ -146,6 +146,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\..\日常文档\c++课程设计\Client.h" />
+    <ClInclude Include="..\..\..\..\日常文档\c++课程设计\ClientManager.h" />
+    <ClInclude Include="..\..\..\..\日常文档\c++课程设计\FeeManager.h" />
+    <ClInclude Include="..\..\..\..\日常文档\c++课程设计\Food.h" />
+    <ClInclude Include="..\..\..\..\日常文档\c++课程设计\FoodManager.h" />
+    <ClInclude Include="..\..\..\..\日常文档\c++课程设计\MenuView.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\日常文档\c++课程设计\Client.cpp" />
+    <ClCompile Include="..\..\..\..\日常文档\c++课程设计\ClientManager.cpp" />
+    <ClCompile Include="..\..\..\..\日常文档\c++课程设计\FeeManager.cpp" />
+    <ClCompile Include="..\..\..\..\日常文档\c++课程设计\Food.cpp" />
+    <ClCompile Include="..\..\..\..\日常文档\c++课程设计\FoodManager.cpp" />
+    <ClCompile Include="..\..\..\..\日常文档\c++课程设计\Main.cpp" />
+    <ClCompile Include="..\..\..\..\日常文档\c++课程设计\MenuView.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
